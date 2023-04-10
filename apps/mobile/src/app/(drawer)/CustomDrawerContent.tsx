@@ -4,7 +4,7 @@ import {
 } from '@react-navigation/drawer'
 
 import CredentialSvg from '../assets/credential.svg'
-import DrawerItem from '../components/DrawerItem'
+import DrawerItem from '../../../app/components/DrawerItem'
 
 export default function CustomDrawerContent(
   props: DrawerContentComponentProps,
